@@ -1,8 +1,13 @@
 \# 📄 ATS Resume Analyzer
 
+# ATS Resume Analyzer
+
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://ats-resume-analyzer-qgqhnptduzu4pvu7yfbk3p.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)]()
+
+A Streamlit-based web app that analyzes how well a resume matches a job description using keyword extraction and ATS-style scoring.
 
 
-A modular ATS (Applicant Tracking System) Resume Analyzer built with Python and Streamlit.
 
 
 
